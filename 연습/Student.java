@@ -10,6 +10,10 @@ public class Student
     }
     
    public static void main(String[] args){
+       Student studentKim = new Student();
+       studentKim.studentName = "김수민";
+       studentKim.address = "천안시";
        
+       studentKim.showStudentInfor();
    }
 }
