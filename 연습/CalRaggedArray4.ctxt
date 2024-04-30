@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CalRaggedArray4
+comment1.params=
+comment1.target=int[][]\ makeArray()
+comment2.params=intArr
+comment2.target=void\ initArray(int[][])
+comment3.params=intArr
+comment3.target=void\ printArray(int[][])
+comment4.params=intArr
+comment4.target=void\ sumArray(int[][])
+comment5.params=intArr
+comment5.target=void\ columnSumArray(int[][])
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

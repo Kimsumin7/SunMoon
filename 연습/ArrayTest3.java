@@ -12,7 +12,7 @@ public class ArrayTest3
         }
         
         for(int i=0; i<alphabets.length; ch++){
-            alphabets[i] = ch;
+            System.out.println(alphabets[i]);
         }
     }
 }
