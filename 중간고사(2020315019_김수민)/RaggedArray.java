@@ -1,8 +1,13 @@
-//try-catch-finally(이건 생략 가능)  
 
+/**
+ * RaggedArray 클래스의 설명을 작성하세요.
+ *
+ * @author (김수민_2020315019)
+ * @version (4/30)
+ */
 import java.util.Scanner;
 
-public class CalRaggedArray4 {
+public class RaggedArray {
     static int[][] makeArray() {
         int temp[][] = new int[4][];
         int index = 1;
@@ -66,6 +71,7 @@ public class CalRaggedArray4 {
                 }
             }
             System.out.println("열 " + j + "의 합계: " + sum);
+            
         }
     }
     
@@ -90,5 +96,6 @@ public class CalRaggedArray4 {
         initArray(intArray);
         printArray(intArray);
         columnSumArray(intArray);
+        scoreArray(intArray);
     }
 }
