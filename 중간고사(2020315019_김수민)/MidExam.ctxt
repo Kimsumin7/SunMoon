@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MidExam
+comment0.text=\r\n\ MidExam\ \uD074\uB798\uC2A4\uC758\ \uC124\uBA85\uC744\ \uC791\uC131\uD558\uC138\uC694.\r\n\r\n\ @author\ (\uAE40\uC218\uBBFC_2020315019)\r\n\ @version\ (4/30)\r\n
+comment1.params=
+comment1.target=int[][]\ makeArray()
+comment2.params=intArr
+comment2.target=void\ raggedArray(int[][])
+comment3.params=
+comment3.target=void\ findLongestRowLength()
+comment4.params=
+comment4.target=void\ longestRowLength()
+comment5.params=
+comment5.target=void\ calculateArray()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

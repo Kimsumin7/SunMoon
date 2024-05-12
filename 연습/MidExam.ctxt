@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MidExam
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int[][]\ makeArray()
+comment3.params=raggedArray
+comment3.target=int\ findLongestRowLength(int[][])
+comment4.params=array\ row
+comment4.target=void\ calculateArray(int[][],\ int)
+numComments=5
