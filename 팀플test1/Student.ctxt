@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ Student\ \uD074\uB798\uC2A4\uC758\ \uC124\uBA85\uC744\ \uC791\uC131\uD558\uC138\uC694.\r\n\r\n\ @author\ (Innovative\ Thinkers)\r\n\ @version\ (\uBC84\uC804\ \uBC88\uD638\ \uB610\uB294\ \uC791\uC131\uD55C\ \uB0A0\uC9DC)\r\n
+comment1.params=id\ name\ kor\ eng\ math
+comment1.target=Student(java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ calculateGrades()
+comment3.params=
+comment3.target=int\ getTotalScore()
+comment4.params=
+comment4.target=float\ getAverageScore()
+comment5.params=
+comment5.target=void\ printIndividualGrade()
+numComments=6
