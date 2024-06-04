@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=StudentMain
+comment1.params=\uC774\uB984\ \uD559\uBC88\ \uACFC\uBAA9
+comment1.target=Student(java.lang.String,\ int,\ java.lang.String[])
+comment2.params=
+comment2.target=java.lang.String\ get\uC774\uB984()
+comment3.params=
+comment3.target=int\ get\uD559\uBC88()
+comment4.params=
+comment4.target=java.lang.String[]\ get\uACFC\uBAA9()
+comment5.params=
+comment5.target=void\ displayReportCard()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

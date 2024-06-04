@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Circle
+comment0.text=\r\n\ Circle\ \uD074\uB798\uC2A4\uC758\ \uC124\uBA85\uC744\ \uC791\uC131\uD558\uC138\uC694.\r\n\r\n\ @author\ (2020315019\ \uAE40\uC218\uBBFC)\r\n\ @version\ (20240514)\r\n
+comment1.params=r\ c\ n
+comment1.target=Circle(double,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ setRadius()
+comment3.params=
+comment3.target=double\ getRadius()
+comment4.params=
+comment4.target=java.lang.String\ getColor()
+comment5.params=
+comment5.target=java.lang.String\ getName()
+numComments=6
