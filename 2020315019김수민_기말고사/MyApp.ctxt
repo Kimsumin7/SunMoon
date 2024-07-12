@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=MyApp
+comment0.text=\r\n\ MyApp\ \uD074\uB798\uC2A4\uC758\ \uC124\uBA85\uC744\ \uC791\uC131\uD558\uC138\uC694.\r\n\r\n\ @author\ (\uAE40\uC218\uBBFC2020315019)\r\n\ @version\ (24-06-12)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=emArray
+comment2.target=double\ computer(Employee[])
+numComments=3

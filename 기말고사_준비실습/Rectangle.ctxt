@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment0.text=\r\n\ Rectangle\ \uD074\uB798\uC2A4\uC758\ \uC124\uBA85\uC744\ \uC791\uC131\uD558\uC138\uC694.\r\n\r\n\ @author\ (\uAE40\uC218\uBBFC)\r\n\ @version\ (24-06-11)\r\n
+comment1.params=name\ width\ height
+comment1.target=Rectangle(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=double\ familyBonus()
+comment3.params=
+comment3.target=double\ getArea()
+comment4.params=
+comment4.target=void\ draw()
+numComments=5

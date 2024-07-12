@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Shape
+comment0.text=\r\n\ Shape\ \uD074\uB798\uC2A4\uC758\ \uC124\uBA85\uC744\ \uC791\uC131\uD558\uC138\uC694.\r\n\r\n\ @author\ (\uAE40\uC218\uBBFC)\r\n\ @version\ (24-06-11)\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=double\ getArea()
+numComments=3

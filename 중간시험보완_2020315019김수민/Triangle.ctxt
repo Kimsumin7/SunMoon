@@ -1,10 +1,21 @@
 #BlueJ class context
 comment0.target=Triangle
-comment0.text=\r\n\ Triangle\ \uD074\uB798\uC2A4\uC758\ \uC124\uBA85\uC744\ \uC791\uC131\uD558\uC138\uC694.\r\n\r\n\ @author\ (\uC791\uC131\uC790\ \uC774\uB984)\r\n\ @version\ (\uBC84\uC804\ \uBC88\uD638\ \uB610\uB294\ \uC791\uC131\uD55C\ \uB0A0\uC9DC)\r\n
-comment1.params=name\ base\ height
-comment1.target=Triangle(java.lang.String,\ double,\ double)
+comment1.params=name\ color\ side1\ side2\ side3
+comment1.target=Triangle(java.lang.String,\ java.lang.String,\ double,\ double,\ double)
 comment2.params=
 comment2.target=void\ draw()
 comment3.params=
 comment3.target=double\ area()
-numComments=4
+comment4.params=number
+comment4.target=double\ squareRoot(double)
+comment5.params=
+comment5.target=double\ perimeter()
+comment6.params=
+comment6.target=java.lang.String\ getFigureName()
+comment7.params=
+comment7.target=boolean\ isEquilateral()
+comment8.params=
+comment8.target=boolean\ isIsosceles()
+comment9.params=
+comment9.target=boolean\ isRightAngled()
+numComments=10
